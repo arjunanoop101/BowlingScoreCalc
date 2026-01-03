@@ -2,18 +2,6 @@
 
 A real-time ten-pin bowling score calculator built with React. Enter bowling notation and see your score calculated instantly according to official bowling rules.
 
-##  Table of Contents
-
-
-- [Demo](#demo)
-- [How It Works](#how-it-works)
-- [Installation](#installation)
-- [Algorithm Explanation](#algorithm-explanation)
-- [Test Cases](#test-cases)
-- [Technical Details](#technical-details)
-
-
-
 ##  Demo
 
 Try these examples:
